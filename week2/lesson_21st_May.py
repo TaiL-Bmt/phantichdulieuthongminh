@@ -37,7 +37,7 @@ if 0:
     plt.show()
 
 # Contour graph of income/outcome
-if 1:
+if 0:
     fig,ax = plt.subplots(1, 1)
     x = df['income']
     y = df['outcome']
@@ -45,5 +45,17 @@ if 1:
     sns.kdeplot(df['income'], df['outcome'], ax=ax)
     #sns.rugplot(df['income'], color='g', ax=ax)
     #sns.rugplot(df['outcome'], vertical=True, ax=ax, color='k')
+    plt.show()
+
+# Stacked histogram
+if 1:
+    fix,ax = plt.subplots(1, 1)
+    bins_number = 25
+    # Rural
+    df_rural= df.loc[df['area'] == 'rural']
+    # Urban
+    df_urban= df.loc[df['area'] == 'urban']
+    ax.hist([df_rural['income'], df_urban['income']], bins=bins_number, color=['b', 'g'], edgecolor='black', stacked=True)
+
     plt.show()
 
