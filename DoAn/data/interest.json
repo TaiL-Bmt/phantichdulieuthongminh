@@ -1,0 +1,637 @@
+[
+  {
+    "date": "2022-05-16",
+    "bankName": "SCB",
+    "interest": 7.6
+  },
+  {
+    "date": "2022-05-16",
+    "bankName": "BAOVIET Bank",
+    "interest": 4.9
+  },
+  {
+    "date": "2022-05-16",
+    "bankName": "SCB",
+    "interest": 0.3
+  },
+  {
+    "date": "2022-05-16",
+    "bankName": "MB",
+    "interest": 3.7
+  },
+  {
+    "date": "2022-05-16",
+    "bankName": "MB",
+    "interest": 7.6
+  },
+  {
+    "date": "2022-05-16",
+    "bankName": "HDBank",
+    "interest": 7.15
+  },
+  {
+    "date": "2022-05-16",
+    "bankName": "MB",
+    "interest": 7.1
+  },
+  {
+    "date": "2022-05-16",
+    "bankName": "MB",
+    "interest": 7.1
+  },
+  {
+    "date": "2022-05-16",
+    "bankName": "MSB",
+    "interest": 7.0
+  },
+  {
+    "date": "2022-05-16",
+    "bankName": "LienVietPostBank",
+    "interest": 6.99
+  },
+  {
+    "date": "2022-05-16",
+    "bankName": "MB",
+    "interest": 6.9
+  },
+  {
+    "date": "2022-05-16",
+    "bankName": "VietABank",
+    "interest": 6.9
+  },
+  {
+    "date": "2022-05-16",
+    "bankName": "BIDV",
+    "interest": 5.6
+  },
+  {
+    "date": "2022-05-16",
+    "bankName": "BIDV",
+    "interest": 5.5
+  },
+  {
+    "date": "2022-04-15",
+    "bankName": "SCB",
+    "interest": 7.6
+  },
+  {
+    "date": "2022-04-15",
+    "bankName": "BAOVIET Bank",
+    "interest": 4.82
+  },
+  {
+    "date": "2022-04-15",
+    "bankName": "ABBANK",
+    "interest": 4.0
+  },
+  {
+    "date": "2022-04-15",
+    "bankName": "MB",
+    "interest": 2.9
+  },
+  {
+    "date": "2022-04-15",
+    "bankName": "MB",
+    "interest": 5.5
+  },
+  {
+    "date": "2022-04-15",
+    "bankName": "SCB",
+    "interest": 7.6
+  },
+  {
+    "date": "2022-04-15",
+    "bankName": "MB",
+    "interest": 7.1
+  },
+  {
+    "date": "2022-04-15",
+    "bankName": "MSB",
+    "interest": 7.0
+  },
+  {
+    "date": "2022-04-15",
+    "bankName": "LienVietPostBank",
+    "interest": 6.99
+  },
+  {
+    "date": "2022-04-15",
+    "bankName": "MB",
+    "interest": 6.9
+  },
+  {
+    "date": "2022-04-15",
+    "bankName": "Vietbank",
+    "interest": 6.9
+  },
+  {
+    "date": "2022-04-15",
+    "bankName": "VietABank",
+    "interest": 6.9
+  },
+  {
+    "date": "2022-04-15",
+    "bankName": "BIDV",
+    "interest": 5.6
+  },
+  {
+    "date": "2022-04-15",
+    "bankName": "BIDV",
+    "interest": 5.5
+  },
+  {
+    "date": "2022-03-10",
+    "bankName": "Eximbank",
+    "interest": 4.56
+  },
+  {
+    "date": "2022-03-10",
+    "bankName": "VIB",
+    "interest": 6.19
+  },
+  {
+    "date": "2022-03-10",
+    "bankName": "SCB",
+    "interest": 7.6
+  },
+  {
+    "date": "2022-03-10",
+    "bankName": "MB",
+    "interest": 7.1
+  },
+  {
+    "date": "2022-03-10",
+    "bankName": "MSB",
+    "interest": 7.0
+  },
+  {
+    "date": "2022-03-10",
+    "bankName": "LienVietPostBank",
+    "interest": 6.99
+  },
+  {
+    "date": "2022-03-10",
+    "bankName": "MB",
+    "interest": 6.9
+  },
+  {
+    "date": "2022-03-10",
+    "bankName": "VietABank",
+    "interest": 6.9
+  },
+  {
+    "date": "2022-03-10",
+    "bankName": "HDBank",
+    "interest": 6.85
+  },
+  {
+    "date": "2022-03-10",
+    "bankName": "BIDV",
+    "interest": 5.6
+  },
+  {
+    "date": "2022-03-10",
+    "bankName": "VietinBank",
+    "interest": 5.5
+  },
+  {
+    "date": "2022-01-06",
+    "bankName": "BAOVIET Bank",
+    "interest": 4.76
+  },
+  {
+    "date": "2022-01-06",
+    "bankName": "MB",
+    "interest": 7.1
+  },
+  {
+    "date": "2022-01-06",
+    "bankName": "MSB",
+    "interest": 7.0
+  },
+  {
+    "date": "2022-01-06",
+    "bankName": "LienVietPostBank",
+    "interest": 6.99
+  },
+  {
+    "date": "2022-01-06",
+    "bankName": "MB",
+    "interest": 6.9
+  },
+  {
+    "date": "2022-01-06",
+    "bankName": "VietABank",
+    "interest": 6.9
+  },
+  {
+    "date": "2022-01-06",
+    "bankName": "BIDV",
+    "interest": 5.6
+  },
+  {
+    "date": "2022-01-06",
+    "bankName": "VietinBank",
+    "interest": 5.5
+  },
+  {
+    "date": "2021-12-07",
+    "bankName": "Eximbank",
+    "interest": 0.3
+  },
+  {
+    "date": "2021-12-07",
+    "bankName": "MB",
+    "interest": 0.3
+  },
+  {
+    "date": "2021-12-07",
+    "bankName": "OCB",
+    "interest": 0.2
+  },
+  {
+    "date": "2021-12-07",
+    "bankName": "GPBank",
+    "interest": 6.4
+  },
+  {
+    "date": "2021-12-07",
+    "bankName": "VPBank",
+    "interest": 7.1
+  },
+  {
+    "date": "2021-12-07",
+    "bankName": "MSB",
+    "interest": 7.0
+  },
+  {
+    "date": "2021-12-07",
+    "bankName": "LienVietPostBank",
+    "interest": 6.99
+  },
+  {
+    "date": "2021-12-07",
+    "bankName": "MB",
+    "interest": 6.9
+  },
+  {
+    "date": "2021-12-07",
+    "bankName": "HDBank",
+    "interest": 6.85
+  },
+  {
+    "date": "2021-12-07",
+    "bankName": "SCB",
+    "interest": 6.8
+  },
+  {
+    "date": "2021-12-07",
+    "bankName": "Kienlongbank",
+    "interest": 6.75
+  },
+  {
+    "date": "2021-12-07",
+    "bankName": "BIDV",
+    "interest": 5.6
+  },
+  {
+    "date": "2021-12-07",
+    "bankName": "VietinBank",
+    "interest": 5.5
+  },
+  {
+    "date": "2021-10-14",
+    "bankName": "Nam A Bank",
+    "interest": 5.9
+  },
+  {
+    "date": "2021-10-14",
+    "bankName": "NCB",
+    "interest": 3.9
+  },
+  {
+    "date": "2021-10-14",
+    "bankName": "VIB",
+    "interest": 3.6
+  },
+  {
+    "date": "2021-10-14",
+    "bankName": "MB",
+    "interest": 5.1
+  },
+  {
+    "date": "2021-09-15",
+    "bankName": "BIDV",
+    "interest": 5.6
+  },
+  {
+    "date": "2021-09-15",
+    "bankName": "TPBank",
+    "interest": 5.3
+  },
+  {
+    "date": "2021-09-15",
+    "bankName": "TPBank",
+    "interest": 6.15
+  },
+  {
+    "date": "2021-09-15",
+    "bankName": "MB",
+    "interest": 6.1
+  },
+  {
+    "date": "2021-09-15",
+    "bankName": "MB",
+    "interest": 7.4
+  },
+  {
+    "date": "2021-09-15",
+    "bankName": "MB",
+    "interest": 7.1
+  },
+  {
+    "date": "2021-09-15",
+    "bankName": "MSB",
+    "interest": 6.99
+  },
+  {
+    "date": "2021-09-15",
+    "bankName": "MB",
+    "interest": 6.9
+  },
+  {
+    "date": "2021-09-15",
+    "bankName": "VietABank",
+    "interest": 6.9
+  },
+  {
+    "date": "2021-09-15",
+    "bankName": "HDBank",
+    "interest": 6.85
+  },
+  {
+    "date": "2021-09-15",
+    "bankName": "VietinBank",
+    "interest": 5.6
+  },
+  {
+    "date": "2021-09-15",
+    "bankName": "BIDV",
+    "interest": 5.5
+  },
+  {
+    "date": "2021-07-05",
+    "bankName": "MB",
+    "interest": 3.1
+  },
+  {
+    "date": "2021-07-05",
+    "bankName": "MB",
+    "interest": 3.0
+  },
+  {
+    "date": "2021-07-05",
+    "bankName": "OCB",
+    "interest": 8.2
+  },
+  {
+    "date": "2021-07-05",
+    "bankName": "ACB",
+    "interest": 7.4
+  },
+  {
+    "date": "2021-07-05",
+    "bankName": "MB",
+    "interest": 7.1
+  },
+  {
+    "date": "2021-07-05",
+    "bankName": "MSB",
+    "interest": 7.0
+  },
+  {
+    "date": "2021-07-05",
+    "bankName": "LienVietPostBank",
+    "interest": 6.99
+  },
+  {
+    "date": "2021-07-05",
+    "bankName": "HDBank",
+    "interest": 6.95
+  },
+  {
+    "date": "2021-07-05",
+    "bankName": "MB",
+    "interest": 6.9
+  },
+  {
+    "date": "2021-07-05",
+    "bankName": "BIDV",
+    "interest": 5.6
+  },
+  {
+    "date": "2021-07-05",
+    "bankName": "Vietcombank",
+    "interest": 5.5
+  },
+  {
+    "date": "2021-06-05",
+    "bankName": "OCB",
+    "interest": 8.2
+  },
+  {
+    "date": "2021-06-05",
+    "bankName": "SHB",
+    "interest": 6.4
+  },
+  {
+    "date": "2021-06-05",
+    "bankName": "MB",
+    "interest": 5.7
+  },
+  {
+    "date": "2021-06-05",
+    "bankName": "TPBank",
+    "interest": 6.5
+  },
+  {
+    "date": "2021-06-05",
+    "bankName": "OCB",
+    "interest": 8.2
+  },
+  {
+    "date": "2021-06-05",
+    "bankName": "ACB",
+    "interest": 7.4
+  },
+  {
+    "date": "2021-06-05",
+    "bankName": "MB",
+    "interest": 7.1
+  },
+  {
+    "date": "2021-06-05",
+    "bankName": "MSB",
+    "interest": 7.0
+  },
+  {
+    "date": "2021-06-05",
+    "bankName": "LienVietPostBank",
+    "interest": 6.99
+  },
+  {
+    "date": "2021-06-05",
+    "bankName": "HDBank",
+    "interest": 6.95
+  },
+  {
+    "date": "2021-06-05",
+    "bankName": "MB",
+    "interest": 6.95
+  },
+  {
+    "date": "2021-06-05",
+    "bankName": "VPBank",
+    "interest": 6.2
+  },
+  {
+    "date": "2021-06-05",
+    "bankName": "BIDV",
+    "interest": 5.6
+  },
+  {
+    "date": "2021-06-05",
+    "bankName": "Vietcombank",
+    "interest": 5.5
+  },
+  {
+    "date": "2021-05-06",
+    "bankName": "SHB",
+    "interest": 3.7
+  },
+  {
+    "date": "2021-05-06",
+    "bankName": "BIDV",
+    "interest": 8.2
+  },
+  {
+    "date": "2021-05-06",
+    "bankName": "ACB",
+    "interest": 7.4
+  },
+  {
+    "date": "2021-05-06",
+    "bankName": "MB",
+    "interest": 7.1
+  },
+  {
+    "date": "2021-05-06",
+    "bankName": "MSB",
+    "interest": 7.0
+  },
+  {
+    "date": "2021-05-06",
+    "bankName": "LienVietPostBank",
+    "interest": 6.99
+  },
+  {
+    "date": "2021-05-06",
+    "bankName": "HDBank",
+    "interest": 6.95
+  },
+  {
+    "date": "2021-05-06",
+    "bankName": "MB",
+    "interest": 6.95
+  },
+  {
+    "date": "2021-05-06",
+    "bankName": "VPBank",
+    "interest": 6.5
+  },
+  {
+    "date": "2021-05-06",
+    "bankName": "BIDV",
+    "interest": 5.6
+  },
+  {
+    "date": "2021-05-06",
+    "bankName": "Vietcombank",
+    "interest": 5.5
+  },
+  {
+    "date": "2021-08-25",
+    "bankName": "Eximbank",
+    "interest": 0.5
+  },
+  {
+    "date": "2021-08-25",
+    "bankName": "Viet Capital Bank",
+    "interest": 5.7
+  },
+  {
+    "date": "2021-04-09",
+    "bankName": "MB",
+    "interest": 3.4
+  },
+  {
+    "date": "2021-04-09",
+    "bankName": "VPBank",
+    "interest": 3.5
+  },
+  {
+    "date": "2021-04-09",
+    "bankName": "VIB",
+    "interest": 5.6
+  },
+  {
+    "date": "2021-04-09",
+    "bankName": "OCB",
+    "interest": 8.2
+  },
+  {
+    "date": "2021-04-09",
+    "bankName": "Vietbank",
+    "interest": 7.8
+  },
+  {
+    "date": "2021-04-09",
+    "bankName": "ACB",
+    "interest": 7.4
+  },
+  {
+    "date": "2021-04-09",
+    "bankName": "MB",
+    "interest": 7.1
+  },
+  {
+    "date": "2021-04-09",
+    "bankName": "MSB",
+    "interest": 7.0
+  },
+  {
+    "date": "2021-04-09",
+    "bankName": "LienVietPostBank",
+    "interest": 6.99
+  },
+  {
+    "date": "2021-04-09",
+    "bankName": "HDBank",
+    "interest": 6.95
+  },
+  {
+    "date": "2021-04-09",
+    "bankName": "VPBank",
+    "interest": 5.7
+  },
+  {
+    "date": "2021-04-09",
+    "bankName": "BIDV",
+    "interest": 5.6
+  },
+  {
+    "date": "2021-04-09",
+    "bankName": "Vietcombank",
+    "interest": 5.5
+  }
+]
