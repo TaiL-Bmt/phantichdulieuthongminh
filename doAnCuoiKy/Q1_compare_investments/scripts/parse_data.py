@@ -13,15 +13,31 @@ def extract_data(input_file, output_file):
     base_name = re.split('\.', base_name)[0] + "_price"
 
     # Process data
-    df = pd.read_csv(input_file, usecols = ['date','price'])
-    df['date'] = pd.to_datetime(df['date'], dayfirst=True, format='%d%m%y', infer_datetime_format=True)
-    df['price'].replace('\.', '', regex=True, inplace = True)
-    df['price'].replace('\,', '.', regex=True, inplace = True)
-    df['price'] = df['price'].astype('float64')
-    df.columns = df.columns.str.replace('price', base_name)
-    result = df.date.dt.to_period("M")
-    g = df.groupby(result)
-    g.mean().to_csv(output_file)
+    print("Parse", input_file)
+
+    # dcds, dcbf, vn30, usd_exchange
+    dc_list = ['dcds', 'dcbf', 'vn30', 'usd_ex']
+    if any(it in input_file for it in dc_list):
+        df = pd.read_csv(input_file, usecols = ['date','price'])
+        df['date'] = pd.to_datetime(df['date'], dayfirst=True, format='%d%m%y', infer_datetime_format=True)
+        df['price'].replace('\,', '', regex=True, inplace = True)
+        df['price'] = df['price'].astype('float64')
+        df.columns = df.columns.str.replace('price', base_name)
+        result = df.date.dt.to_period("M")
+        g = df.groupby(result)
+        g.mean().to_csv(output_file)
+        return 
+
+    # Bank interest
+    if re.search("bank_interest", input_file):
+        df = pd.read_csv(input_file, usecols=['date', 'interest'])
+        df['date'] = pd.to_datetime(df['date'], dayfirst=True, format='%d%m%y', infer_datetime_format=True)
+        df['interest'].replace('\,', '', regex=True, inplace = True)
+        df['interest'] = df['interest'].astype('float64')
+        result = df.date.dt.to_period("M")
+        g = df.groupby(result)
+        g.mean().to_csv(output_file)
+        return 
 
 
 # Main process

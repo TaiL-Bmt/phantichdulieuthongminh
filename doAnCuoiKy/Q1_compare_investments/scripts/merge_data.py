@@ -18,19 +18,16 @@ def get_list_files(path, extension):
     '''
 def merge_csv(path):
     csv_files = list(get_list_files(path, "csv"))
-    flag = True
     left_df = pd.DataFrame()
     right_df = pd.DataFrame()
+    flag = True
+
     for file in csv_files:
-        if re.search("merged", file):
-            print("ignore ", file)
-            continue
-        if flag:
-            left_df = pd.read_csv(path+file)
-            flag = False
+        temp_df=pd.read_csv(path+file)
+        if len(left_df) == 0:
+            left_df = temp_df
             continue
 
-        temp_df=pd.read_csv(path+file)
         if len(temp_df) > len(left_df):
             right_df = left_df
             left_df = temp_df
@@ -44,6 +41,7 @@ def merge_csv(path):
     left_df.sort_values(by='date')
 
     return left_df
+    return result
 
 
 # Main process
